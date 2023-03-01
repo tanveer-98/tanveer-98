@@ -1,5 +1,5 @@
 - 👋 Hi, I’m Tanveer
-- 👀 I’m interested in Full Stack Web Development but more into backend-technologies
+- 👀 A Full stack Developer with more interest into front end technologies.
 
 
 <!---
