@@ -1,5 +1,5 @@
 - 👋 Hi, I’m Tanveer
-- 👀 A Full stack Developer with more interest into front end technologies.
+- 👀 A Full stack Developer working on technologies like MERN , Typescript , AWS techonologies.
 
 
 <!---
