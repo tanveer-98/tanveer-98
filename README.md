@@ -1,6 +1,6 @@
 - 👋 Hi, I’m Tanveer
 - 👀 A Full stack Developer working on technologies like MERN , Typescript , AWS techonologies.
-
+- Currently I am learning Next.js and GraphQL
 
 <!---
 tanveer-98/tanveer-98 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
